@@ -1,0 +1,1 @@
+-wto "3fb221f2f4274150b349a4fb4643206f" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "AES_Encryptor_tb_behav" "xil_defaultlib.AES_Encryptor_tb" -log "elaborate.log" 
